@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #040F16;
+}
+
+.container {
+  min-height: 99vh;
+  display: grid;
+  place-items: center;
+}
